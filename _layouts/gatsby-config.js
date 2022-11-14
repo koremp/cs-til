@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/foam-til`,
   siteMetadata: {
-    title: `Foam`,
+    title: `Claire's TIl and Blogs`,
   },
   plugins: [
     {
