@@ -4,6 +4,7 @@
   "editor.overviewRulerBorder": false,
   // "editor.lineHeight": 24,
   "workbench.colorTheme": "Gray Matter Dark",
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "[markdown]": {
     "editor.quickSuggestions": {
       "comments": "on",
