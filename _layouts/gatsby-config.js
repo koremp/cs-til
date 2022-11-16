@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/foam-til`,
+  pathPrefix: "/foam-til",
   siteMetadata: {
     title: `Claire's TIl and Blogs`,
   },
