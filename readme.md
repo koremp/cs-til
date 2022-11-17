@@ -1,3 +1,3 @@
-# Foam TIL
+# Foam
 
-Claire's TIL and Blogs
+Claire's Foam for TIL and Blogs, Articles, etc
