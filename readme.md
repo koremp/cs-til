@@ -1,3 +1,3 @@
-# Foam
+# Study
 
-Claire's Foam for TIL and Blogs, Articles, etc
+Personal Studies based on Foam
