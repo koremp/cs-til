@@ -1,3 +1,3 @@
-# etc-til
+# cs-til
 
-Personal Studies based on Foam
+Computer Science Study TIL - based on Foam
